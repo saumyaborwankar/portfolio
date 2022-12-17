@@ -50,16 +50,3 @@
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
-## Features
-
-- Powered by markdown
-- Dark mode and light mode available
-- Closable tabs
-- Collapsible explorer
-- Responsive web design
-- Google Analytics supported
-- Auto-deploy to gh-pages with github actions ready
-
-<p align="right">(<a href="#top">back to top</a>)</p>
