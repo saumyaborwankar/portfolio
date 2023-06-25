@@ -1,6 +1,4 @@
 import {
-  FaMedium,
-  FaBlog,
   FaGithub,
   FaLinkedin,
   FaEnvelope,
@@ -22,7 +20,7 @@ export const links = [
   {
     index: 2,
     title: "Contact me via email",
-    href: "mailto:saumya.borwankar@gmail.com",
+    href: "mailto:sborwankar@hawk.iit.edu",
     icon: <FaEnvelope />,
   },
 ];

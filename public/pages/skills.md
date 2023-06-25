@@ -4,10 +4,8 @@
 - Architecture Design
 - Desktop App Development
 - Web Development (Frontend & Backend)
-- Machine Learning
 
 ## Programming languages
-- C# .NET
 - Python
 - JavaScript/TypeScript
   - React.js
@@ -15,19 +13,15 @@
 - Java
 - Go
 - Matlab
+- C# .NET
 
 ## Databases
--  Postgres
-- DynamoDB
-- Cassandra
 - Redis
 - Hadoop
 - MongoDB
 
 ## Cloud
 - AWS
-- GCP
-- Heroku
 
 ## Vcs
 - Git
@@ -39,7 +33,7 @@
 - ReactJS
 - AJAX
 - BootStrap
-- Selenium
+- Cypress
 - RESTful API
 
 ## DevOps/Frameworks

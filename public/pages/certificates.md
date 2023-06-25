@@ -1,2 +1,2 @@
 # 🥇 Certificates
-- Red Hat Certified System Administrator (RHCSAv8) 2020
+- Red Hat Certified System Administrator on RedHat Enterprise Linux (RHEL v8) 2020
