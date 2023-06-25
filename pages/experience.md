@@ -1,36 +1,35 @@
 # 👨‍💻 Experience
 
-**Research Assistant** @ [Illinois Institute of Technology](https://iconsense.iit.edu/) _(Oct 2022 - Present)_
+**Software Engineer** @ [Google Summer of Code - Submitty](https://summerofcode.withgoogle.com/register/prompt) _(May 2023 - Present)_
+- Designed and implemented a flexible configuration system to dynamically create Docker containers for each assignment, resulting in a 30% reduction in deployment time for new assignments.
+- Created a comprehensive suite of unit test cases covering aspects of the autograding feature, achieving a 95% test coverage and reducing the number of critical bugs by 20%.
+- Developed a custom Matrix GitHub Action to automate the building and publishing process of Docker images.
+- _**Technologies used:**_ Docker, PHP, Python, C++ 
 
-◦ Contributed to engineering design thinking based on user perception using MRTK (Mixed reality toolkit).
-◦ Built a Unity application to support Hololens 2 and capture user data to understand the preference for indoor positioning.
-◦ Derived significant insights that improve our understanding of the data from the 10,679 data points.
-◦ Reduced application’s deployment speed 3x times by utilizing the package creation technique for HoloLens 2.
-◦ Migrated the codebase of 3 applications from HoloLens 1 to HoloLens 2 and followed Microsoft’s best practices.
-- _**Technologies used:**_ Unity, C#, MRTK, 
+
+**Graduate Research Assistant** @ [Illinois Institute of Technology](https://iconsense.iit.edu/) _(Oct 2022 - Present)_
+
+- Implemented a comprehensive CI/CD pipeline leveraging GitLab, Docker, and ROS (Robot Operating System) to ensure seamless and continuous deployment of robot code.
+- Created controller to interface with Nova Haptic Glove for providing motion of the robot and joints of weld gun.
+- Developer virtual reality applications in C# and Unity (On Oculus) that translated user inputs into ROS commands to control a real-world.
+- _**Technologies used:**_ Unity, C#, AWS, GitLab, CI/CD 
 
 &nbsp;
 
 **Software Developer** @ [Sony Research India](https://www.sonyresearchindia.com/) _(Oct 2020 - Jul 2022)_
 
-- Led two projects, Voice activity detection (EER 5%) and Speaker Diarization (DER 7%) for the Hindi language, reducing outsourcing costs by 20%.
-  - Conceptualized two highly available, fault-tolerant microservice architectures based on Flask, Docker, and AWS.
-  - Collaborated with an agile team of 4 to develop a dashboard to serve machine learning models.
-  - Manipulated algorithms to align with marketing, sales, and solutions, improving automation by 15%.
-  - Drafted documentation delineating designs and specs for two projects.
-  - Served our solution with Dockerfile and prebuilt docker containers, increasing efficiency by more than 55%.
-- _**Technologies used:**_ Flask, AWS Lambda, Docker, React.js, Python, Pytorch
+- Media Analysis Team: Created an end-to-end system capable of extracting metadata from videos. Improved
+efficiency by 60% by introducing caching and restructuring the API.
+- Built dashboards to showcase analytics of video and TRP analysis system for data collected with React.js.
+- Served our solution with Dockerfile and prebuilt docker containers, increasing efficiency by more than 55%.
+- Reduced server costs by 20% and boosted server efficiency by migrating 2 monolithic applications to RESTful API microservices, by migrating to FastAPI and Flask microservices.
+- _**Technologies used:**_ Flask, AWS Lambda, Docker, React.js, Python, Pytorch, Node.js, FastAPI
 
 &nbsp;
 
-**Software Development Intern** @ [Therex Technologies]() _(Mar 2020 - Aug 2020)_
+**Software Development Intern** @ [Therex Technologies]() _(June 2020 - Aug 2021)_
 
-◦ Reorganized a noise removal method for user audio input using Convolution Neural Networks, improving performance
-by 70%, and published a research paper in AISC 2021, volume 1320.
-◦ Structured a Kafka pipeline for streaming audio data, cutting down processing time by 10 hours per week.
-◦ Worked with five other interns to implement features of the company website using CSS, JS, and HTML.
-◦ Created a live project for 350+ RHEL (RedHat Enterprise Linux) clients that automated tasks like setting up a Hadoop
-cluster, launching a docker, setting up a web server, and capturing live video of remote connections, along with having
-a real-time facial recognition (CNN-based) system for security.
-◦ Ansible playbooks used to automate Hadoop cluster deployment, which increased time efficiency by 35%.
+- Developed and maintained RESTful APIs for the company’s flagship product, resulting in a 30% increase in API performance and a 40% reduction in downtime.
+- Designed and developed a microservices architecture for a new web application, resulting in a 50% reduction in code complexity and a 30% improvement in application scalability.
+- Collaborated with the front-end development team to integrate APIs with the user interface, resulting in a seamless user experience for customers.
 - _**Technologies used:**_ Python, CSS, JavaScript, React.js, Ansible, Hadoop, Pytorch
