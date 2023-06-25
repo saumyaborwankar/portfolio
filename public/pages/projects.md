@@ -4,7 +4,7 @@
 - Developed a full-stack web application like FB marketplace, exclusively available for university students. The application facilitates messaging system within a student’s specific university.
 - React, Javascript, Node, AWS
 
-## [Dashboard Analytics Web Application](https://dashboard-frontend-8p5n.onrender.com/dashboard) 🔗
+## [Dashboard Analytics Web Application](https://dashboard-frontend-8p5n.onrender.com/) 🔗
 - Constructed an Interactive web dashboard application with server-side pagination able to display various analytics related to
 customers and deployed it on render
 - React, Javascript, MongoDB, Node
